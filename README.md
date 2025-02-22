@@ -1,7 +1,7 @@
 # Introduction to artificial intelligence
 
 ## 📜 Description
-Tasks and exercises solved during *Introduction to Artificial Intelligence* course at my studies.
+Tasks and exercises solved during **Introduction to Artificial Intelligence** course at my studies.
 
 ## 📬 Contact
 For questions, feedback, or support:
