@@ -1,0 +1,7 @@
+Metody Brute Force i PW ratio rozwiązania problemu plecakowego mają odmienne rozwiązania. 
+
+- Brute Force: 
+Metoda Brute Force jest metodą, która zawsze dostarczy najbardziej optymalny wynik, jednak okupione jest to bardzo długim czasem wykonania dążacym do nieskończoności dla dużego zbioru danych. Jest to spowodowane złożonością czasową, która wynosi O(2^n).
+
+- PW Ratio:
+Metoda PW Ratio prezentuje odmienne podejście do rozwiązania problemu plecakowego. Nie gwarantuje ona otrzymania najbardziej optymalnego wyniku, jednak czas potrzebny na wykonanie obliczeń jest znacząco mniejszy. Wynika to z tego, że nie wszystkie możliwe kombinacje są sprawdzane, lecz tylko te wybrane.

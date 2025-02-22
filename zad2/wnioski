@@ -1,0 +1,8 @@
+Algorytmy genetyczne działają w sposób odmienny do metody gradientowej. W metodzie gradientowej, wybieramy punkt startowy, który w zależności
+od naszej wiedzy na temat funkcji jest lepszym bądź gorszym przybliżeniem minimum globalnego. Z kolei w przypadku algorytmów genetycznych, 
+początkowa populacja jest wybierana w wyniku losowania, dzięki czemu jest ona rozpostarta po dużej przestrzeni, co zwiększa szansę na dotarcie
+do okolic minimum globalnego. Oczywiście nadal jest szansa na "wpadnięcie" do minimum lokalnego, które nie jest minumum globalnym, jednak na 
+skutek losowości jest ona mniejsza niż w przypadku dobrania niewłaściwego punktu startowego w metodzie gradientowej. Dodaktowo w przypadku 
+dotarcia do złego minimum, algorytm genetyczny ma szansę na powrót we wlaściwy obszar poszukiwań na skutek mutacji, która dodaje losowości 
+w doborze osobników. W algorytmie genetycznym należy rozsądnie dobrać parametry, takie jak rozmiar populacji, prawdopodobieństwo krzyżowania 
+oraz prawdopodobieństwo mutacji, aby osiągnąć jak najlszesze wyniki. Może to stanowić probleme dla początkujacych programistów. 
